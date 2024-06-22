@@ -1,6 +1,5 @@
-
 public class ContaCorrente extends ContaBanco {
-    public ContaCorrente() {
-        super();
-    }
-} 
+        public ContaCorrente() {
+            super();
+        } 
+}
