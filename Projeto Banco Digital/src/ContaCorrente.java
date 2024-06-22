@@ -1,4 +1,6 @@
 
-public interface ContaCorrente {
-
-}
+public class ContaCorrente extends ContaBanco {
+    public ContaCorrente() {
+        super();
+    }
+} 
