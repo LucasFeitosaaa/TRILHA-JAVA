@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Iphone",
+            "request": "launch",
+            "mainClass": "Iphone",
+            "projectName": "projeto-iphone_63f88811"
+        }
+    ]
+}
